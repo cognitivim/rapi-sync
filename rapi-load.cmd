@@ -16,7 +16,7 @@ if %ERRORLEVEL% neq 0 goto ONERROR
 exit /b 0
 
 :ONERROR
-echo exeption: upload failed!
+echo exeption: load failed!
 pause
 @echo on
 exit /b 1
